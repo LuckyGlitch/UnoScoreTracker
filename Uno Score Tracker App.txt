@@ -1,0 +1,45 @@
+Uno Score Tracker App
+-------------------
+number of players 
+min - 2
+max - 8
+winning score
+print both ask to correct
+op--> yes or no
+op---> y or n
+"Your have 7 players and your winning score is 300.
+Do you wish to proceed? (Yes/No)"
+
+No
+---
+
+enter correct details
+reenter the no of players 
+reenter the winning score
+
+print both --> are the details correct this time
+op--> yes or no
+op---> y or n
+
+loop
+
+Yes
+----
+
+ask the name of the players name based on the value of no of players 
+
+1st 2nd 3rd 4th 5th
+
+print all the value
+
+get all the value and ask them the value is correct or not
+
+if its wrong ask them which one is wrong and change the specified one
+
+print all the value
+
+loop
+
+if all the values are right 
+
+let's start the game
