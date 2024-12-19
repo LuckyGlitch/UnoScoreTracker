@@ -1,0 +1,28 @@
+Git Intro
+-------------------
+1. creating a repository.
+2. clone the repository to the local.
+
+ how to clone the repo?
+
+--> copying the clone URL.
+--> open the local window
+--> open git bash in that folder (shift + right click)
+--> enter command "git clone 'clone URL' "
+--> open cloned repo folder in git bash "cd 'cloned repo name' "
+--> create new branch "git branch 'new-branch-name' "
+--> switch to secondary branch (" git checkout 'branch-name' ")
+--> 
+
+
+
+
+--> to list out the branches in git bash "git branch --list (or) git branch -l "
+
+--> to delete the branch in git bash "git branch --delete 'branch-name' (or) git branch -d 'branch-name' "
+
+--> to check the commit list that we do ("git log")
+--> to get the commit in one line ("git log --oneline") 
+
+--> to switch commits ("git switchout 'commit-id' ") 
+
